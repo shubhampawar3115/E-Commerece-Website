@@ -338,6 +338,7 @@ select:focus{
 .Single-product .col-2{
     padding: 20px;
 }
+
 .Single-product h4{
     margin: 20px 0;
     font-size: 22px;
@@ -367,11 +368,14 @@ input:focus{
 .small-img-row{
     display: flex;
     justify-content: space-between;
+
+
 }
 .small-img-col{
     flex-basis: 24%;
     cursor: pointer;
 }
+ 
 
 /*---Cart Items Details-----*/
 
